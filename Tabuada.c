@@ -10,7 +10,7 @@ void Tab_soma(int n){
 	printf("\n");
 }
 void Tab_multiplicacao(int n){
-	int i = 0;
+	int i = 2;
 	int mult = 0;
 	for(i=0;i<11;i++){
 		mult = i*n;
